@@ -7,11 +7,11 @@
 
 ## 🌟 Features
 
-📅 **Calendar View:** Interactive calendar displaying hall availability and current bookings.  
-🏢 **Multi-Hall Support:** View and filter seminar halls by department or location.  
-📨 **Booking Requests:** Users can submit reservation requests based on open slots.  
-✅ **Admin Management:** Admins can approve or reject booking requests and manage hall schedules.  
-🧭 **Status Indicators:** Halls are color-coded as booked, pending, or available for quick navigation.  
+* **Calendar View:** Interactive calendar displaying hall availability and current bookings.  
+* **Multi-Hall Support:** View and filter seminar halls by department or location.  
+* **Booking Requests:** Users can submit reservation requests based on open slots.  
+* **Admin Management:** Admins can approve or reject booking requests and manage hall schedules.  
+* **Status Indicators:** Halls are color-coded as booked, pending, or available for quick navigation.  
 
 ---
 
